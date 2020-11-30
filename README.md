@@ -16,6 +16,7 @@ Basic task list:
     * [ ] Module 9: Migration and Innovation
     * [ ] Module 10: The Cloud Journey
     * [ ] Module 11: AWS Certified Cloud Practitioner Basics
+* [ ] Watch the video: [Build Your Robot with AWS RoboMaker](https://www.youtube.com/watch?v=VHuzxu_W3Ps)
 * [ ] Add bibliography
 * [ ] Empty
 * [ ] Empty
