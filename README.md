@@ -20,3 +20,4 @@ Basic task list:
 * [ ] Add bibliography
 * [ ] Empty
 * [ ] Empty
+* [ ] Create Wiki about how to choose the correctly ROS version: [Link](https://www.theconstructsim.com/infographic-ros-1-vs-ros-2-one-better-2/)
