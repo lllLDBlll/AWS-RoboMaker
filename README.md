@@ -16,8 +16,19 @@ Basic task list:
     * [ ] Module 9: Migration and Innovation
     * [ ] Module 10: The Cloud Journey
     * [ ] Module 11: AWS Certified Cloud Practitioner Basics
-* [ ] Watch the video: [Build Your Robot with AWS RoboMaker](https://www.youtube.com/watch?v=VHuzxu_W3Ps)
+* [ ] Watch the video: [Build a Robot Application with AWS RoboMaker](https://www.youtube.com/watch?v=b7wzhSo4F_M)
 * [ ] Add bibliography
 * [ ] Empty
 * [ ] Empty
 * [ ] Create Wiki about how to choose the correctly ROS version: [Link](https://www.theconstructsim.com/infographic-ros-1-vs-ros-2-one-better-2/)
+
+What is ROS
+ 
+What is Gazebo
+
+AWS Robomaker, a service with all of these
+
+Mainly Feature>is a good idea
+
+Amazon Kinesis Video Stream 
+
